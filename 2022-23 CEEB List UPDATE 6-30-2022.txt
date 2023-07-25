@@ -1,0 +1,48 @@
+004547SOUTHEAST NEW MEXICO COLLEGE  1500 UNIVERSITY DRIVE                                       CARLSBAD         NM 88220                                 061622UA        
+020178HOUSTON HIGH SCHOOL           PO BOX 940315                                               HOUSTON          AK 99694 0315                            061322UA        
+051856PIVOT CHARTER SCH SAN DIEGO II1030 LA BONITA DR STE 100                                   SAN MARCOS       CA 92078 5292                            062022UF        
+052060LIVE OAK HIGH SCHOOL          1505 E MAIN AVE                                             MORGAN HILL      CA 95037 3217                            060922UA        
+055039EF ACADEMY                    1539 E HOWARD ST                                            PASADENA         CA 91104 2635                            060622AI        
+055040SANTA CLARA COUNTY ED CMTY SCH258 SUNOL ST                                                SAN JOSE         CA 95126 4804                            062322A         
+055041DOWNEY UNIFIED VIRTUAL ACADEMY9625 VAN RUITEN ST                                          BELLFLOWER       CA 90706 2359                            062722A         
+070463CREC IMPACT ACADEMY           15 VERNON ST                                                HARTFORD         CT 06106 3214                            062222U         
+100314ALTA CAREER ACADEMY           10300 SUNSET DR STE 321                                     MIAMI            FL 33173 3019                            061322UB        
+102901SAN JOSE EARLY COLLEGE CECIL  5640 POW MIA MEMORIAL PKWY                                  JACKSONVILLE     FL 32221 8116                            061322A         
+130158CLRC ONLINE ACADEMY           P O BOX 270                                                 NAPLES           ID 83847 0270                            062422AI        
+142675NORTH CLAY HIGH SCHOOL        500 S ROUTE 45                PO BOX 220                    LOUISVILLE       IL 62858                                 060922UA        
+143265ODIN HIGH SCHOOL              102 S MERRITT ST                                            ODIN             IL 62870 1112                            061322UA        
+152365NORTH WHITE MIDDLE HIGH SCHOOL305 E BROADWAY ST                                           MONON            IN 47959 8137                            062222UA        
+180850FORT KNOX MIDDLE/HIGH SCHOOL  266 MAINE ST BLDG 7501                                      FORT KNOX        KY 40121 6800                            061522UA        
+181604FRANCIS PARKER SCHL LOUISVILLE233 W BROADWAY                                              LOUISVILLE       KY 40202 2145                            062022UD        
+240042MATER DEI APOSTOLATE          2430 W 3RD ST                                               DULUTH           MN 55806 1801                            061422A         
+240577LIONSGATE ACADEMY             5605 GREEN CIRCLE DR                                        MINNETONKA       MN 55343 4523                            062322UF        
+320151OAK GROVE CLASSICAL ACADEMY   8888 HARPER DR NE                                           ALBUQUERQUE      NM 87111 1000                            062422UD        
+330168SUCCESS HS LIB ARTS HARLEM    509 W 129TH ST FL 3                                         NEW YORK         NY 10027 2532                            062422A         
+340202WAKE PREPARATORY ACADEMY      14111 CAPITAL BLVD                                          WAKE FOREST      NC 27587 7055                            062022A         
+370029EPIC CHARTER SCHOOL           1900 NW EXPRESSWAY STE R3                                   OKLAHOMA CITY    OK 73118 1825                            061322UF        
+370903CORN BIBLE ACADEMY            22387 E 1070 RD                                             CLINTON          OK 73601 7409                            060322UD        
+432186PURE ACADEMY                  4847 AMEY RD                                                MEMPHIS          TN 38109 8423                            062722A         
+442840ACE SCHOOL                    PO BOX 2129                                                 GLEN ROSE        TX 76043                                 061322DA        
+444452MANOR EARLY COLLEGE HIGH SCH  12700 GREGG MANOR RD G WING                                 MANOR            TX 78653 3357                            060722AA        
+444481NEWMAN INTL ACD MANSFIELD EAST7000 MATLOCK RD                                             ARLINGTON        TX 76002 3410                            062222A         
+491250LIBERTY HIGH SCHOOL           700 COAL RIVER RD                                           GLEN DANIEL      WV 25844 9570                            060322UA        
+632036WEST VIRGINIA ACADEMY         AL NEEL ST OLD AIRPORT        PO BOX 16192                  DOHA                            QATAR                    F061522UB        
+649740HUILI SCHOOL HANGZHOU         2399 XUE ZHI ROAD             XIAOSHAN DIST,                HANGZHOU             311231     CHINA                    F062822A         
+670455AMERICAN SCHOOL OF HONG KONG  6 MA CHUNG ROAD               HONG KONG                     TAI PO                          HONG KONG                F062722A         
+671264SHARANYA NARAYANI INTRNTNL SCHNO 232/1 THORANAHALLI BYRANAH-ALLI POST                     BANGALORE KARNAT     563130     INDIA                    F062222UB        
+671750KUNSKAPSSKOLAN LUCKNOW        SECTOR A POCKET 1             ANSAL SUSHAN GOLF CITY        LUCKNOW UTTAR        226030     INDIA                    F061522A         
+682030KWANGJU FOREIGN SCHOOL        106 SAMSORO ORYONG DONG BUK-GU                              GWANGJU              61005      KOREA, SOUTH (ROK)       F061322UB        
+682399BEYOND DREAM GLOBAL LEADER    201-61 USEONG 1-GIL           NOEUN-MYEON                   CHUNGJU-SI           27452      KOREA, SOUTH (ROK)       F062022A         
+692103AMERICAN SCHOOL DHAHRAN       PO BOX 31677                  AMERICAN CONSULATE COMPOUND   AL-KHOBAR            31952      SAUDI ARABIA             F060322UB        
+694782BEIJING LIZE INTL ACAD        NO 3 MENGJIAQIAO SOUTH ST     FENGTAI DISTRICT              BEIJING              100073     CHINA                    F061622A         
+694783ACHIEVE XIAMEN INTL SCHOOL    NO 877 FANGHU NORTH 2ND RD    XIAMEN FUJIAN PROVENCE        XIAMEN                          CHINA                    F061622A         
+694790HUILI SCHOOL HANGZHOU         2399 XUE ZHI ROAD             XIAOSHAN DISTRICT             HANGZHOU             311321     CHINA                    F062822A         
+696472OZEL UMRANIYE BILIMLER LISESI CAKMAK MAH TAVUKCUYOLU CAD    MIMOZA SOK NO2                ISTANBUL             34774      TURKEY                   F060722A         
+697250NEXT GENERATION SCHOOL        27 A ST BEHIND SAUDI GERMAN   HOSPITAL AL-BARSHA 3          DUBAI UAE            393308     UNITED ARAB EMIRATES     F062122A         
+697251GEMS CAMBRIDGE INTL SCHOOL    KING ABDUL AZIZ ST            MUWAILIH SCHOOL ZONE          SHARJAH              32457      UNITED ARAB EMIRATES     F062122A         
+719027AKADEMIA LEAF-LEAF ACADEMY    SASINKOVA 13                                                BRATISLAVA           81108      SLOVAKIA                 F061322UB        
+792581NUESTRA SENORA DE ARANZAZU    C ALTO DE ERRONDO 121                                       DONOSTIA             20009      SPAIN                    F061322A         
+794072SVEN ERIKSONSGYMNASIET        SVEN ERIKSONSGYMNASIET        50180                         BORAS                           SWEDEN                   F061322A         
+854505COLEGIO MAYA                  KM 12.5 CARR EL SALVADOR      FRENTE A BURGER KING          GUATEMALA CITY       01073      GUATEMALA                F062822UB        
+910603COLEGIO IAVNE                 R PADRE JOAO MANUEL 727                                     SAO PAULO            01411 001  BRAZIL                   F062422A         
+910604COLEGIO ALFA CEM BILINGUE     ESTRADA DE JACAREPAGUA 6816                                 RIO DE JANEIRO       22756 045  BRAZIL                   F062422A  
