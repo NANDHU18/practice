@@ -1,0 +1,100 @@
+010021HOPE CHRISTIAN SCHOOL         9340 HELENA RD STE F404                                     BIRMINGHAM       AL 35244 1794                            072622UD        
+030765WICKENBURG CHRISTIAN ACADEMY  260 W YAVAPAI ST                                            WICKENBURG       AZ 85390 3205                            071322UB        
+030815ASPIRE DEER VALLEY ONLINE ACD 20402 N 15TH AVE                                            PHOENIX          AZ 85027 3636                            063022A         
+030821CRISMON HIGH SCHOOL           21942 EAST RIGGS RD                                         QUEEN CREEK      AZ 85142                                 072622AA        
+050326ESCONDIDO CHRISTIAN SCHOOL    923 IDAHO AVE                                               ESCONDIDO        CA 92025 6308                            071422UC        
+053209SAN DIEGO BUSINESS LEADERSHIP 1405 PARK BLVD                                              SAN DIEGO        CA 92101 4722                            072522DA        
+053326CARDINAL NEWMAN HIGH SCHOOL   4320 OLD REDOWOOD HIGHWAY                                   SANTA ROSA       CA 95403 1724                            071122UC        
+053345ANALY HIGH SCHOOL             6950 ANALY AVE                                              SEBASTOPOL       CA 95472 3401                            070822UA        
+053429ORANGE COUNTY CHRISTIAN SCH   641 S WESTERN AVE                                           ANAHEIM          CA 92804 3112                            072022UD        
+053903SAN DIEGO HIGH SCHOOL         1405 PARK BLVD                                              SAN DIEGO        CA 92101 4722                            072022UA        
+053907SAN DIEGO INTL STUDIES        1405 PARK BLVD                                              SAN DIEGO        CA 92101 4722                            072522DA        
+053922LEARNING CHOICE ACADEMY       4215 SPRING ST STE 229                                      LA MESA          CA 91941 7984                            071822UA        
+054207STELLA HIGH CHARTER SCHOOL    1600 W IMPERIAL HWY                                         LOS ANGELES      CA 90047 4810                            071222UF        
+054633AUGUSTUS HAWKINS COM HLTH ADV 825 W 60TH ST                                               LOS ANGELES      CA 90044 5512                            070722UA        
+054634AUGUSTUS HAWKINS HS RISE SCHL 825 W 60TH ST                                               LOS ANGELES      CA 90044 5512                            070722UA        
+055042DEWAY SCHOOL                  17800 CASTLETON ST STE 685                                  CITY OF INDUSTRY CA 91748 5766                            071122A         
+055043MILPITAS MID COLLEGE HIGH SCHL1450 ESCUELA PKWY                                           MILPITAS         CA 95035 3248                            071822AA        
+055044DONUM DEI CLASSICAL ACADEMY   1550 TREAT AVE                                              SAN FRANCISCO    CA 94110 5234                            072022AB        
+060551EAGLE ROCK SCH PROF DEV CENTER2750 NOTAIAH RD                                             ESTES PARK       CO 80517 9752                            070822UB        
+100094IMPACT CHRISTIAN ACADEMY      9501 ARLINGTON EXPY STE 245B                                JACKSONVILLE     FL 32225 8240                            072622UD        
+100895UNION JUVENILE RESIDENTIAL FAC14692 NE COUNTY ROAD 199                                    RAIFORD          FL 32083 2519                            071122DH        
+101260GRANT CAREER AND TECH EDU CTR 1302 33RD ST NW                                             WINTER HAVEN     FL 33881 2054                            070822UB        
+102228PALM BEACH VIRTUAL SCHOOL     9482 MACARTHUR BLVD                                         PALM BEACH GRDNS FL 33403 1102                            071122UI        
+102513MATER BRIGHTON LK ACAD PREP HS3200 PLEASANT HILL RD                                       KISSIMMEE        FL 34746 3067                            071822UF        
+102811GULF POINTE LATIN SCHOOL      7624 EAST BAY BLVD                                          NAVARRE          FL 32566 7923                            071822AC        
+111280FITZGERALD HIGH SCHOOL        553 OCILLA HWY                                              FITZGERALD       GA 31750                                 062922UA        
+130167FORGE INTERNATIONAL SCHOOL    208 S HARTLEY LN                                            MIDDLETON        ID 83644 4748                            072022AA        
+141329URBAN PREP CHART ACD WEST CAMPWABASH BLDG-ROOSEVELT UNIV    425 S WABASH AVE STE 462      CHICAGO          IL 60605 1208                            071122UF        
+150110CORDEN PORTER SCHOOL          2315 ALLISON LN # 5878                                      JEFFERSONVILLE   IN 47130 5818                            071122D         
+151782INDEPENDENCE ACADEMY INDIANA  7302 WOODLAND DR                                            INDIANAPOLIS     IN 46278 1736                            071222UB        
+210004WICOMICO EVENING HIGH SCHOOL  916 S SCHUMAKER DR                                          SALISBURY        MD 21804 8722                            062922UA        
+210407CEDAR BROOK ACADEMY           23700 STRINGTOWN RD                                         CLARKSBURG       MD 20871 9336                            071122DD        
+230888DETROIT URBAN LEAGUE YOUTH CTR15770 JAMES COUZENS                                         DETROIT          MI 48238 1049                            072622UH        
+232191NORTHSIDE EDUCATION CENTER    405 E DRESDEN ST                                            KALKASKA         MI 49646 8257                            071122DA        
+233242FAITH CHRISTIAN SCHOOL        34950 LITTLE MACK AVE                                       CLINTON TOWNSHIP MI 48036 4701                            070822UD        
+250665NEW HOPE HIGH SCHOOL          2920 NEW HOPE RD                                            COLUMBUS         MS 39702 8576                            063022UA        
+263108TRINITY CATHOLIC HIGH SCHOOL  1720 REDMAN RD                                              SAINT LOUIS      MO 63138 1732                            071122DC        
+310994MATER DEI PREP                538 CHURCH ST                                               MIDDLETOWN       NJ 07748 2303                            071122DC        
+311561TRINITY PREPARATORY SCHOOL    199 CHURCH RD                                               MEDFORD          NJ 08055 9512                            071922UD        
+320196LOS LUNAS DIGITAL ACADEMY     32 SUN VALLEY RD                                            LOS LUNAS        NM 87031 6728                            072122AA        
+320385ARROWHEAD PARK MEDICAL ACADEMY3600 ARROWHEAD RD                                           LAS CRUCES       NM 88011 5129                            072522DA        
+320521WALATOWA CHARTER HIGH SCHOOL  147 BEAR HEAD CANYON RD                                     JEMEZ PUEBLO     NM 87024                                 070722UA        
+320734EARLY COLLEGE HIGH SCHOOL (LAS3400 S ESPINA ST                                            LAS CRUCES       NM 88003 1290                            072522D         
+320737NEW HOPE ALT HIGH SCHOOL      601 N 5TH ST                                                LOVINGTON        NM 88260 3339                            072522D         
+330742INTERNATIONAL CHRISTIAN SCHOOL670 92ND ST                                                 BROOKLYN         NY 11228 3632                            071122UD        
+340234COVENANT SCHOOL THE           2300 W FRIENDLY AVE                                         GREENSBORO       NC 27403 1108                            072022AD        
+340251CANTERBURY CLASSICAL SCHOOL   718 HAYWOOD RD                                              ASHEVILLE        NC 28806 3112                            071822AB        
+340365EAST MONTGOMERY HIGH SCHOOL   157 EAGLE LN                                                BISCOE           NC 27209 9668                            071122DA        
+351575SAINT THOMAS PUBLIC SCHOOL    375 HERITAGE AVENUE           PO BOX 150                    SAINT THOMAS     ND 58276 0150                            071122DA        
+390116MAIN LINE CLASSICAL ACADEMY   455 S ROBERTS RD                                            BRYN MAWR        PA 19010 2131                            071822AB        
+390117ST JOHN CHRYSOSTOM ACADEMY    395 BRIDLE PATH RD                                          BETHLEHEM        PA 18017 3158                            072122AB        
+390261SCHOOL LANE CHARTER SCHOOL    3340 TILLMAN DR                                             BENSALEM         PA 19020 2030                            071822UF        
+394367SALTSBURG MIDDLE-SENIOR HS    84 TROJAN LN                                                SALTSBURG        PA 15681 8960                            072522DA        
+410017NEXT HIGH SCHOOL              2000 WADE HAMPTON BLVD BLDG 2                               GREENVILLE       SC 29615 1037                            072522DF        
+440344UNIVERSITY OF TEXAS AUSTIN HS 1912 SPEEDWAY STE 5.824E                                    AUSTIN           TX 78712 1235                            071122UG        
+441526CESAR E CHAVEZ ACAD CHRT SCH  4613 S PADRE ISLAND DR                                      CORPUS CHRISTI   TX 78411 4413                            071122DF        
+443123KEYS ACADEMY                  3229 OLEANDER ST              BLDG L                        HARLINGEN        TX 78550                                 071222UA        
+443259HIDALGO ACADEMY               1400 EAST PIRATE DRIVE        POST OFFICE DRAWER D          HIDALGO          TX 78557                                 072522DA        
+443260HIDALGO EARLY COLLEGE HS      910 E PIRATE DR                                             HIDALGO          TX 78557 4200                            071222UA        
+443265HIGGINS HIGH SCHOOL           PO BOX 218                                                  HIGGINS          TX 79046 0218                            072522DA        
+447274AIM CENTER HIGH SCHOOL        500 STADIUM ST.                                             VIDOR            TX 77662 5847                            072522DA        
+471460WESTMORELAND HIGH SCHOOL      16762 KINGS HWY                                             MONTROSS         VA 22520 2728                            071222UA        
+471837BANNER CHRISTIAN SCHOOL       5831 COURTHOUSE RD                                          CHESTERFIELD     VA 23832 7332                            070822UD        
+491117WEST VA SCHOOL DEAF AND BLIND 301 E MAIN ST                                               ROMNEY           WV 26757 1828                            070822UA        
+632043BETA CAMBRIDGE SCHOOL         STREET 300 ZONE 91            AL MASHAF AL WUKAIR           QATAR                           QATAR                    F071822AA        
+636003PRIVATE SCHOOL SWAKOPMUND     8 KUHNAST STREET                                            SWAKOPMUND           13003      NAMIBIA                  F072322AA        
+649740HUILI SCHOOL HANGZHOU         2399 XUE ZHI ROAD             XIAOSHAN DIST,                HANGZHOU             311231     CHINA                    F071122D         
+666011BILIMKANA AMERICAN SCHOOL     1 AITMATOV STREET                                           BISHKEK                         KYRGYZSTAN               F070622AB        
+671003ALLIANCE WORLD SCHOOL         CARE SHRI KRISHNA SHIKSHA     SAMITI C54A SEC 56            NOIDA UP             201301     INDIA                    F072522UB        
+671101INDIA LEARNING FOUNDATION     WHITEFIELD-SARJAPUR RD NEAR   DOMMASANDR CIR CHIKKAVADERPURABANGALORE            562125     INDIA                    F071922UB        
+671306RBK INTERNATIONAL SCHOOL      INDIALOK PHASE 6 NEAR SHALOM  HOSPITAL                      PANCHAMRATNA PRK     401105     INDIA                    F071122UB        
+671307VIVEK HIGH SCHOOL             SECTOR 38 B RD                                              CHANDIGARH           160036     INDIA                    F071122A         
+671473LITTLE SHRI SECTOR-3 ROHTAK   OPP EPF OFFICE                                              ROHTAK               124001     INDIA                    F070622AA        
+671474CHITKARA INTERNATIONAL SCHOOL SECTOR 25 WEST UDYOG PATH                                   CHANDIGARH           160014     INDIA                    F071922AA        
+671497INDO BHARAT ONLINE SCHOOL     BHANKROTA AJMER RD                                          JAIPUR               302026     INDIA                    F071222A         
+671675BLOOMINGDALE INTNL SCHOOL     BEHIND AP FISHERIES DEPT      PENAMALURU, VIJAYAWADA        VIJAYAWADA           521137     INDIA                    F063022A         
+674003NILUFER GIRLS HIGH SCHOOL     PIRMAM ST SHAQLAWA RD SAFEEN DBEHIND MIN PESHMERGA AFFAIRS  ERBIL                44001      IRAQ                     F071922UB        
+676013ORKHON KHASU SCHOOL           10/2 SHARAV STREET 20TH KHOROOKHAN-UUL DISTRICT             ULAANBAATAR          17042      MONGOLIA                 F071922UB        
+679000ACADEMIC LYCEUM UZSWLU        KICHIK XALQA YOLI 21A UCHTEPA DISTRICT                      TASHKENT             100138     UZBEKISTAN               F062922UA        
+682029CHEONGSHIM INTERNATIONAL ACAD 324-213 MISARI-RO SEORAK-MYEONGAPYEONG-GUN                  GYEONGGI DO          12461      KOREA, SOUTH (ROK)       F071822UB        
+689081KATHMANDU WORLD SCHOOL        SURYA BINAYAK-7 GUNDU                                       BHAKTAPUR            44800      NEPAL                    F071122A         
+690271BEACONHOUSE COLLEGE PROGRAMME 204-RB NEW GULSHAN-E-IQBAL    EAST CANAL CAMPUS PUNJAB      FAISALABAD           38000      PAKISTAN                 F072322UB        
+694791BEIJING HUAIROU SOLANO HS     SOLANO SCHOOL NO 6 SOUTH ST   IN YUGIAYUAN                  HUAIROU                         CHINA                    F071222A         
+694792SHANGHAI IVY SCHOOL           NO 3301 HUNAN ROAD                                          SHANGHAI             201315     CHINA                    F071222A         
+694793WUHAN COGDEL CRANLEIGH HS     NO 9 TIANYU ROAD PANLONGCHENG ECONOMIC DEVELOPMENT ZONE     WUHAN                           CHINA                    F072522AA        
+695016UNITY CONCORD INTERNATIONAL SC272 MOO 2 CHIANG MAI LAMPANG  SUPER HWY TAMBOL NONG PHEUNG  CHIANG MAI AMPHU     50140      THAILAND                 F071422UB        
+697178EMIRATES FALCON INTL PRVT SCHL249 AL JABR ST FALAJ HAZZA                                  AL AIN ABU DHABI                UNITED ARAB EMIRATES     F071222UB        
+697215FUTURE LEADERS INTL PRV SCHL  BANIYAS EAST 9 ZONE P7        PO BOX 56955                  ABU DHABI                       UNITED ARAB EMIRATES     F070622UB        
+697270INTERNATIONAL JUBILEE PRIV SCHAL MUSHARAKA STREET 39                                      ABU DHABI            8152       UNITED ARAB EMIRATES     F063022A         
+698038TRUE NORTH SCHOOL             TH-03 MO LAO URBAN AREA MO LAOWARD HA DONG DISTRICT         HANOI VIETNAM        1000000    VIETNAM                  F071522AA        
+700562COLMONT SCHOOL                40 WHITE ST                   KILMORE                       VICTORIA         VIC VIC 3764   AUSTRALIA                F062922UB        
+700641THE KINGS SCHOOL              87-129 PENNANT HILLS ROAD                                   NORTH PARRAMATTA NSW NSW 2151   AUSTRALIA                F071322UB        
+704072GDQ INTRNTL CHRISTIAN SCHOOL  SHKOLLA DJERASMIN D QIRIAZI   RRUGA DON BOSKO VILLA PRANEISHTIRANA                          ALBANIA                  F072522UB        
+724032ECOLE JEANNINE MANUEL UK      43-45 BEDFORD SQ                                            LONDON               WC1B 3DN   ENGLAND                  F071322UB        
+78394333 LICEUM IM M KOPERNIKA      UL BEMA 76                                                  WARSAW               01-225     POLAND                   F072522AA        
+826570STANFORD ACADEMY              137 QUEEN ST S                                              KITCHENER        ON  N2G 1W2    CANADA                   F071222U         
+826586ROSSEAU LAKE COLLEGE          1967 BRIGHT ST                                              ROSSEAU          ON  P0C 1J0    CANADA                   F070722UB        
+910101MAPLE BEAR SAO LUIS           AVENIDA DO VALE QUADRA 31     LOTE 23 RENASCENCA II         SAO LUIS-MA          65075-660  BRAZIL                   F071922AB        
+910605ESCOLA CAROLINA PATRICIO      PETRONIO CASTRO SOUZA ST #495                               RIO DE JANEIRO       22793-324  BRAZIL                   F072222AA        
+925015REDCOL-NEWPORT SCHL CAMPESTRE ANILLO VIAL KM 3 COSTADO      SUR V1A GIRON                 GIRON                687542     COLOMBIA                 F071822AB        
